@@ -1,7 +1,7 @@
 # github-practice
 We try to break GitHub.
 
-# Authors
+## Authors
 - Dan Johnson
 - Summer Mengarelli
 
