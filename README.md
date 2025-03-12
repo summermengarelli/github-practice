@@ -2,8 +2,8 @@
 We try to break GitHub.
 
 # Authors
-- Dan Johnson
-- Summer Mengarelli
+- Dan Johnson, djohns27@nd.edu
+- Summer Mengarelli, smengare@nd.edu
 
 ## The Basics
 
