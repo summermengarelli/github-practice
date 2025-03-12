@@ -1,9 +1,9 @@
 # github-practice
 We try to break GitHub.
 
-# Authors
-- Dan Johnson, djohns27@nd.edu
-- Summer Mengarelli, smengare@nd.edu
+## Authors
+- Dan Johnson
+- Summer Mengarelli
 
 ## The Basics
 
