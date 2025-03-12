@@ -10,3 +10,7 @@ We try to break GitHub.
 In order to break GitHub, we first need some basic merge conflicts
 - Such as two people editing the file at the same time
 - Anything else?
+
+## New git commands we're learned
+- reflog
+- cherry-pick
