@@ -18,3 +18,5 @@ So, I've started adding new lines at 14 for the branch test.
 ## New git commands we're learned
 - reflog
 - cherry-pick
+- checkout
+- switch
