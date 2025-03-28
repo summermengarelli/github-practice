@@ -13,7 +13,7 @@ In order to break GitHub, we first need some basic merge conflicts
 
 ## Branching
 
-So, I've started adding new lines at 14 for the branch test.
+So, I've started adding new lines at 14 for the branch test. I (Dan) am now trying to create a conflict on this line.
 
 ## New git commands we're learned
 - reflog
