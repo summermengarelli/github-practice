@@ -14,3 +14,5 @@ In order to break GitHub, we first need some basic merge conflicts
 ## New git commands we're learned
 - reflog
 - cherry-pick
+- checkout
+- switch
